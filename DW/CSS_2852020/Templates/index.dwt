@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ch12_sc2a12</title>
+<!-- TemplateEndEditable -->
+<link href="../ch12css.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="container">
+	<header>
+	  <h1>BookStore</h1>
+	</header>
+  <nav><ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="../book2.html">Book1</a></li>
+  <li><a href="../book3.html">Book2</a></li>
+  <li><a href="#about">About</a></li>
+</ul></nav>
+  <!-- TemplateBeginEditable name="content2" -->
+  <article id="right_col" article class="right_col" style="background-image:url(../images/bg.jpg);"></article>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="content1" -->
+  <article id="left_col"><p>富家不用買良田，書中自有千鍾粟。<br>
+安居不用架高堂，書中自有黃金屋。<br>
+娶妻莫愁無良媒，書中自有顏如玉。<br>
+出門莫愁無人隨，書中車馬多如簇。<br>
+男兒欲遂平生志，五經勤向窗前讀。</p>
+</article>
+<!-- TemplateEndEditable --> </div>
+</body>
+</html>
